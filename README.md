@@ -1,58 +1,39 @@
-# ClariFi-NG
-ClariFi NG is a financial management and analytical platform designed to help users understand, organise and make informed decisions about their finances.
+# ClariFi NG
 
-Problem Statement
+### Financial Management and Analytics Platform
 
-Many micro and small business owners record sales, expenses and other financial activities but struggle to interpret the information or understand what action to take.
+## About the Project
 
+ClariFi NG is a financial management and analytical platform designed to help users organise financial information, monitor financial activities, and gain useful insights through structured financial data.
 
-Proposed Solution
+The platform aims to make financial information easier to understand and support informed financial decision-making.
 
-ClariFi will collect financial information from business owners, process and categorize the data, and present it through:
-Simple financial indicators
-Revenue and expense trends
-Estimated profit
-Cash movement
-Receivables and payables
-Financial health indicators
-Automated insights
-Basic decision-support recommendations
-Monthly financial summaries
-MVP Goal
-Help a business owner move from “I have financial records” to “I understand what is happening in my business and what I should pay attention to.”
+## Project Objectives
 
- Project Scope
- 
-IN SCOPE 
-A. User Account & Authentication
-Users should be able to:
-Create an account
-Log in/log out
-Reset password
-Maintain basic account information
-Securely access their business financial data
+* Develop an accessible financial management platform.
+* Provide users with organised financial data.
+* Support manual financial data entry.
+* Enable CSV-based financial data uploads.
+* Generate meaningful financial reports and analytics.
+* Ensure accuracy and consistency in financial calculations.
+* Provide a user-friendly experience.
 
-Priority: Must Have
+## Project Workstreams
 
- Business Profile & Setup
- 
-During onboarding, the user provides basic information about the business.
-Possible information:
-Business name
-Business type/industry
-Business size
-Currency
-Business start date
-Financial period
-Optional business contact information
-The information will help ClariFi contextualize financial data and insights.
+* Project Management
+* UI/UX Design
+* Software Development
+* Data Analytics
+* Quality Assurance (QA)
 
-Priority: Must Have
+## Repository Purpose
 
- Financial Data Input
-This is one of the most important MVP components.
-For V1, users should be able to enter financial data through:
-Primary method
-Manual transaction entry
-Secondary method
-CSV/Excel upload
+This repository serves as the central workspace for documenting, organising, tracking, and managing ClariFi NG project activities.
+
+## Project Management
+
+GitHub Issues and Projects are used to organise tasks, assign responsibilities, and monitor project progress.
+
+## Project Status
+
+Currently in the planning and product development stage.
